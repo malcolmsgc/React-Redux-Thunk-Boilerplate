@@ -1,0 +1,1 @@
+React 16 Boilerplate App with Redux, React Router 4 and Thunk.
